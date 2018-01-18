@@ -1,0 +1,56 @@
+*{
+background:#eee;
+padding:0px;
+margin:0px;
+outline:0px;
+}
+a{text-decoration:none;}
+#main{
+background:#fff;
+margin:auto;
+width:90%;
+color:#000;
+border-bottom:2px  solid #0a0;
+border-left:2px  solid #0a0;
+border-right:2px  solid #0a0;
+}
+#header{
+text-align:right;
+background:#ffe400;
+height:250px;
+}
+#nb{background:#0a0;height:25px;padding:5px;}
+#nb ul {list-style:none;padding:0px;margin:0px;}
+#nb ul li {float:right;}
+#nb ul li  a{background:#0a0;padding:5px;}
+#nb ul li  a:hover{background:#0c0;border:1px solid #fff;padding:10px;color:#078;}
+#bloc{height:20;width:100%;text-align:center;border:2px solid #0a0;}
+#footer{
+background:#008800;
+text-align:center;
+color:#fff;
+}
+#rm{
+height:100%;
+border-right:1px solid #080;
+}
+#logo{
+margin-right:500px;
+}
+#fnb{background:#080;height:20px;width:100%;}
+#fnb ul {list-style:none;margin:0px;}
+#fnb ul li {float:right;background:#080}
+#fnb ul li  a{background:#080;padding:2px;color:#ffe400;margin-left:8px;}
+#fnb ul li  a:hover{color:#f00;border-bottom:2px solid #f00;}
+table{
+background:#fa0;
+}
+table a{color:#a00;}
+table a:hover{color:#09a;}
+table ul {list-style:none;}
+#worn{
+color:#f00;
+border:1px solid #f00;
+width:40%;
+margin:auto;
+}
